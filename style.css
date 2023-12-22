@@ -1,0 +1,19 @@
+#start{
+    position: absolute;
+}
+
+#stop{
+    position: absolute;
+    display: none;
+}
+
+#back{
+    position: relative;
+
+}
+
+#forward{
+    position: relative;
+    left:  50px;
+
+}
